@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RBurgin135
+- 👀 I’m interested in machine learning and artificial intelligence, as well as graphics and video games
+- 🌱 I’m currently enrolled at Aberystwyth University for computer science and artificial inteligence 
+- 💞️ I’m looking to collaborate on anything that I might be interested in!
+- 📫 How to reach me: my email is rwb8@aber.ac.uk
